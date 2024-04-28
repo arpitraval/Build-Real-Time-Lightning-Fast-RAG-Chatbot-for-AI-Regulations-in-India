@@ -1,0 +1,6 @@
+# virtual env
+venv
+
+__pycache__
+flagged
+.env
